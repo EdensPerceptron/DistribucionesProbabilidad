@@ -15,7 +15,7 @@ st.markdown(
         ### Distribuciones Discretas:
         - [Distribución Uniforme](https://distribucionuniforme.streamlit.app/)
         - Distribución Binomial
-        - Distribución de Poisson [documentation](https://docs.streamlit.io)
+        - Distribución de Poisson
 
         ### Distribuciones continuas
         - Distribución Normal
@@ -23,6 +23,5 @@ st.markdown(
         - Distribución chi-Cuadrado
         - Distribución exponencial
         - Distribución Logística
-        - Explore a [New York City rideshare dataset](https://github.com/streamlit/demo-uber-nyc-pickups)
     """
     )

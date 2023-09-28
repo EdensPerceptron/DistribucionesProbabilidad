@@ -13,7 +13,7 @@ st.markdown(
         valores se repiten. Existen dos categorías de distribuciones, discretas y continuas.
     
         ### Distribuciones Discretas:
-        - [Distribución Uniforme](https://streamlit.io)
+        - [Distribución Uniforme](https://distribucionuniforme.streamlit.app/)
         - Distribución Binomial
         - Distribución de Poisson [documentation](https://docs.streamlit.io)
 

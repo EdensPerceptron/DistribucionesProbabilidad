@@ -18,7 +18,7 @@ st.markdown(
         - Distribución de Poisson
 
         ### Distribuciones continuas
-        - Distribución Normal
+        - [Distribución Normal](https://distnormal.streamlit.app/)
         - Distribución t-Student
         - Distribución chi-Cuadrado
         - Distribución exponencial
